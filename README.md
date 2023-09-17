@@ -1,8 +1,7 @@
 # Telco_Churn_Feature_Engineering
 Telco Customer Churn Feature Engineering
 
-![Uploading image.png…]()
-
+![image](https://github.com/furkansukan/Telco_Churn_Feature_Engineering/assets/115731123/d263192d-4ec5-4421-b425-729971a3b3a2)
 
 
 # Problem :
